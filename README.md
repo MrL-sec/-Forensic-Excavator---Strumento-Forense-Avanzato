@@ -28,6 +28,8 @@ Risoluzione "dimostra di non essere un robot" CAPTCHA
 - **Linguaggi di Programmazione**: Backend e frontend technologies
 - **Servizi Cloud**: CDN, hosting provider, servizi esterni
 
+*nota bene: la risoluzione degli IP CDN o il reverse non è attendibile al 100%, non utilizzarlo per prove a carattere forense* 
+
 ### 🔎 Enumerazione Sottodomini
 - **Ricerca Automatica**: Enumerazione di sottodomini comuni
 - **Verifica Attiva**: Controllo della risoluzione DNS
