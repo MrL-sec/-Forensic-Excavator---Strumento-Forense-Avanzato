@@ -1,4 +1,4 @@
-# 🔍 Forensic-Excavator - Strumento Forense Avanzato
+# 🔍 Forensic-Excavator
 
 ## 📋 Descrizione
 Fase Beta: Forensic-Excavator è uno strumento completo e avanzato per l'acquisizione forense di informazioni di siti web e l'analisi OSINT (Open Source Intelligence). Questo tool integra numerose funzionalità per raccogliere informazioni dettagliate su siti web, domini e infrastrutture digitali, pensato per periti incaricati, utile per la ricerca di informazioni nei siti web, in modo automatico, con report in vari formati.
