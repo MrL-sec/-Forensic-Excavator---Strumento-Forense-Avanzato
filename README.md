@@ -69,7 +69,7 @@ Lo strumento include un sistema di installazione automatica delle dipendenze:
 
 ```bash
 # Clona o scarica il progetto
-git clone <repository-url>
+git clone <https://github.com/MrL-sec/-Forensic-Excavator---Strumento-Forense-Avanzato.git>
 cd P\ Osint
 
 # Esegui lo strumento (installerà automaticamente le dipendenze)
